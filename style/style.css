@@ -13,7 +13,7 @@ body{
 }
 .flex{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
 .header{
@@ -104,7 +104,7 @@ body{
   gap: 74px;
 }
 .grow{
-  margin: 136px auto;
+  margin: 60px auto;
 }
 .grow_title{
   font-weight: 700;
